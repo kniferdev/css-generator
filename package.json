@@ -1,0 +1,23 @@
+{
+  "name": "css-generator",
+  "version": "1.0.0",
+  "description": "Gradient CSS Background Generator V1",
+  "main": "css-generator.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/kniferdev/css-generator.git"
+  },
+  "keywords": [
+    "gradient",
+    "css-generator"
+  ],
+  "author": "Knifer",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kniferdev/css-generator/issues"
+  },
+  "homepage": "https://github.com/kniferdev/css-generator#readme"
+}
