@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://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@github.com/kniferdev/css-generator.git"
+    "url": "https://github.com/kniferdev/css-generator.git"
   },
   "keywords": [
     "gradient",
